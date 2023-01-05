@@ -1,7 +1,7 @@
 # painting-system
 It is a simple project about computer graphics and includes a simple game.
 
-## It includes the following:
+## The program does the following:
 1. DDA
 2. Bresenham
 3. Circle
